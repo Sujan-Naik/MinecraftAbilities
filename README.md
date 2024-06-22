@@ -13,8 +13,8 @@ Players can then bind abilities to their hotbar slots which can have extremely c
 
 ![Screenshot_20240622_174502](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/9da84abc-bb06-45cb-835b-cd96b20329a8)
 ![Screenshot_20240622_172808](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/6283c4cb-c396-42f5-8631-4feb66ace923)
-![Screenshot_20240622_172951](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/2db0e521-8f2b-448b-a060-1b5d0b52feb9)
 ![Screenshot_20240622_173321](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/1d291cf1-457d-45e4-9033-fdd7ff27447b)
+![Screenshot_20240622_172951](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/2db0e521-8f2b-448b-a060-1b5d0b52feb9)
 ![Screenshot_20240622_175231](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/85271489-b72f-4135-b484-54bb2696417d)
 ![Screenshot_20240622_175308](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/65e23c23-022d-40ac-8d24-7cf6a8e723dc)
 ![Screenshot_20240622_173950](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/1423c599-c1d2-4f96-8c62-6923bb2fefbe)
