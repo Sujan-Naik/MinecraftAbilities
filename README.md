@@ -11,11 +11,13 @@ Players can then bind abilities to their hotbar slots which can have extremely c
 
 [Chaos Archetype](https://www.youtube.com/watch?v=9eR5o-34O9U)
 
+![Screenshot_20240622_174502](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/9da84abc-bb06-45cb-835b-cd96b20329a8)
 ![Screenshot_20240622_172808](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/6283c4cb-c396-42f5-8631-4feb66ace923)
 ![Screenshot_20240622_172951](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/2db0e521-8f2b-448b-a060-1b5d0b52feb9)
 ![Screenshot_20240622_173321](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/1d291cf1-457d-45e4-9033-fdd7ff27447b)
 ![Screenshot_20240622_173950](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/1423c599-c1d2-4f96-8c62-6923bb2fefbe)
-
+![Screenshot_20240622_174346](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/d416ab44-728d-4c31-9be2-1132436d8e4b)
+![Screenshot_20240622_174850](https://github.com/Sujan-Naik/MinecraftAbilities/assets/125016948/b5749306-da34-4ddb-b992-ebe2f5d1b663)
 
 Main feature outline:
 - Use of block displays
